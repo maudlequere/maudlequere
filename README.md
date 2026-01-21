@@ -1,7 +1,7 @@
 ## Bienvenue sur mon profil👋
 
 Etudiante en B1 à La Manu Le Havre &#x1F917; <br>
-<em>Bachelor développement et data</em>
+<em>Bachelor développement et data</em><br>
 <strong> Mes compétences </strong> : 
 <em><ul>
 <li>HTML</li>
@@ -9,6 +9,7 @@ Etudiante en B1 à La Manu Le Havre &#x1F917; <br>
 <li>JS</li>
 <li>PHP</li>
 <li>WordPress</li>
+<li>SQL</li>
 </ul></em>
 
 Mon compte tik tok : @_saku.manga
