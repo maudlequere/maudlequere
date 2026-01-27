@@ -2,7 +2,7 @@
 
 Etudiante en B1 à La Manu Le Havre &#x1F917; <br>
 <em>Bachelor développement et data</em><br>
-<strong> Actuellement en recherche de stage en région parisienne ou bien région du Havre </strong>
+<strong> Actuellement en recherche de stage en région parisienne ou bien région du Havre </strong><br>
 <strong> Mes compétences </strong> : 
 <em><ul>
 <li>HTML</li>
